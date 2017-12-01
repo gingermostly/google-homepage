@@ -1,0 +1,1 @@
+First project for the Odin Project Web Development course, the assignment is to build the Google search page while utilizing github. I have a lot of experience with html and css but this is my first time using github for a project, so the main goal for me here is to get used to the git workflow and commands.
